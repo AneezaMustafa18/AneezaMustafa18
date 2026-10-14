@@ -1,174 +1,199 @@
-# Hi, I'm Aneeza Mustafa 👋
+<!-- PREMIUM HEADER -->
+<div align="center">
 
-### Flutter Developer | Web Developer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Aneeza%20Mustafa&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Aneeza Mustafa - Flutter Developer"/>
 
-I build **cross-platform mobile applications and responsive web experiences** with a focus on clean, user-friendly interfaces.
+<br/>
 
-```typescript
-const developer = {
-  name: "Aneeza Mustafa",
-  role: ["Flutter Developer", "Web Developer"],
-  location: "Lahore, Pakistan",
-  experience: "3+ years",
-  currentlyLearning: "Python",
-  status: "Open to opportunities"
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+with+Flutter+%26+Dart;Firebase+%7C+REST+APIs+%7C+GetX;Turning+Ideas+Into+Mobile+Experiences" alt="Typing introduction"/>
 
-💼 **Open to Flutter Developer & Web Developer opportunities**
-📍 **Lahore, Pakistan**
-🌱 **Currently learning Python and continuously improving my development skills**
+<br/>
+
+<a href="https://www.linkedin.com/in/aneeza-mustafa-a062872ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aneezamustafa18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/AneezaMustafa18"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+📍 Lahore, Pakistan &nbsp; • &nbsp; 💼 Open to Flutter Developer Opportunities
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ About Me
 
-### 📱 Mobile Development
+I'm **Aneeza Mustafa**, a Flutter Developer passionate about building cross-platform mobile applications with clean interfaces and practical functionality.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+- 📱 Developing mobile applications using **Flutter & Dart**
+- 🔥 Working with **Firebase Authentication and Cloud Firestore**
+- 🔌 Exploring REST API integration and backend connectivity
+- 🧩 Using Provider, GetX, and feature-based architecture where appropriate
+- 🚀 Building practical projects and continuously improving my development skills
+- 🌱 Currently learning Python
 
-### 🔥 Backend & APIs
+---
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+## ⚡ Tech Stack
 
-### 🌐 Web Development
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Mobile Development
 
-### ⚙️ State Management & Architecture
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
 
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+### Backend & APIs
 
-`Provider` · `GetX` · `Clean Architecture` · `MVC`
+<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" alt="Firebase and Postman"/>
 
-### 🔧 Tools
+### Web Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql&theme=dark" alt="Web development technologies"/>
+
+### Tools & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/State%20Management-Provider%20%7C%20GetX-2563EB?style=for-the-badge" alt="State management"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-0891B2?style=for-the-badge" alt="Clean Architecture"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 FitTrack — Fitness Tracking App
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Flutter-based fitness tracking application built with Firebase.
+### 🏃 FitTrack
 
-**Features:**
+**Fitness Tracking Application**
 
-* 🏃 Steps, calories, workouts and distance tracking
-* 🥗 Meal and nutrition tracking
-* 💪 Protein, carbohydrates and fats tracking
-* 💧 Hydration tracking
-* 📋 Activity history
-* 📊 Progress tracking
+A Flutter application focused on fitness activity, nutrition, and progress monitoring.
 
-**Tech:** `Flutter` · `Dart` · `Firebase` · `Clean Architecture`
+- 🏃 Activity and workout tracking
+- 🥗 Meal and nutrition management
+- 💧 Hydration tracking
+- 📊 Activity history and progress
 
----
+**Built with:** Flutter · Dart · Firebase
+
+<!-- Add your actual repository URL to the link below -->
+<a href="https://github.com/AneezaMustafa18"><b>Explore Project →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📢 PasteIt
+
+**Billboard Booking Application**
+
+A mobile app project designed around billboard discovery and advertising bookings.
+
+- 👤 Customer and provider accounts
+- 📋 Billboard and booking management
+- 🔥 Firebase integration
+- 🖼️ Cloudinary media integration
+
+**Built with:** Flutter · Dart · Firebase · Cloudinary
+
+<a href="https://github.com/AneezaMustafa18"><b>Explore Project →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🍔 Food App
 
-A fully functional food application with a clean and responsive interface.
+**Food Browsing Application**
 
-**Features:**
+A mobile UI project focused on convenient food discovery.
 
-* 🍕 Food categories
-* 🔎 Category-based browsing
-* 🌓 Dark & light themes
-* 📱 Responsive UI
-* ✨ Clean and user-friendly experience
+- 🍕 Food categories
+- 🔎 Category-based browsing
+- 🎨 User-friendly interface
+- 🌓 Theme support, where implemented
 
-**Tech:** `Flutter` · `Dart` · `Firebase`
+**Built with:** Flutter · Dart
 
----
+<a href="https://github.com/AneezaMustafa18"><b>Explore Project →</b></a>
 
-### 📢 PasteIt — Advertising App
+</td>
+<td width="50%" valign="top">
 
-An advertising application built to manage and publish advertisements.
+### 👥 UserHub
 
-**Tech:** `Flutter` · `Firebase` · `Cloudinary` · `PayFast`
+**User Management & CRUD**
 
----
+A Flutter application focused on user data management.
 
-### 👥 UserHub — CRUD Application
+- 🔐 Authentication
+- ➕ Create and read records
+- ✏️ Update and delete operations
+- ⚡ Firestore data integration
 
-A Flutter CRUD application focused on real-time user management.
+**Built with:** Flutter · Dart · Firebase · GetX
 
-**Features:**
+<a href="https://github.com/AneezaMustafa18"><b>Explore Project →</b></a>
 
-* 🔐 User authentication
-* ➕ Create, read, update and delete operations
-* ⚡ Real-time Firestore data
-* 🔄 GetX state management
+</td>
+</tr>
+</table>
 
-**Tech:** `Flutter` · `Firebase Firestore` · `GetX`
-
----
-
-## 📚 Other Projects
-
-* ☕ **Coffee Shop App**
-* ✅ **Todo App**
-* 📢 **Billboard Booking App**
-* 🛒 **Marketplace App**
+> **Portfolio note:** Replace the project links above with each project's actual repository URL. Include only features that are implemented and working in the respective project.
 
 ---
 
-## 🌱 Learning & Growth
+## 📊 GitHub Overview
 
-```typescript
-const learning = [
-  "Flutter Development",
-  "Web Development",
-  "API Integration",
-  "Backend Integration",
-  "Python"
-];
+<div align="center">
 
-learning.forEach(skill => keepImproving(skill));
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AneezaMustafa18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-* 🐍 Currently learning Python
-* 📱 Improving Flutter development
-* 🌐 Expanding Web Development skills
-* 🔌 Working with APIs and backend integrations
-* 🚀 Building practical real-world projects
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneezaMustafa18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=AneezaMustafa18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-## 🎯 Currently
+## 🌱 Currently Growing
 
-🔭 Building Flutter & Web projects
-🌱 Learning Python
-💼 Open to Flutter Developer & Web Developer opportunities
-📚 Always learning and improving
+<div align="center">
 
-```typescript
-while (learning) {
-  build();
-  learn();
-  improve();
-}
-```
+| Focus Area | Learning & Building |
+|:---|:---|
+| 📱 Mobile | Flutter & Dart |
+| 🔥 Backend | Firebase & API integration |
+| 🧩 Architecture | Maintainable application structure |
+| 🐍 Programming | Python fundamentals |
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email:** [aneezamustafa18@gmail.com](mailto:aneezamustafa18@gmail.com)
-💼 **LinkedIn:** [Aneeza Mustafa](https://www.linkedin.com/in/aneeza-mustafa-a062872ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkQhFAJznQAWOxnxq40oegg%3D%3D)
-💻 **GitHub:** [AneezaMustafa18](https://github.com/AneezaMustafa18)
+<div align="center">
 
----
+**Have a Flutter project or a suitable opportunity? Let's connect!**
 
-### ✨ Keep Building. Keep Learning. Keep Growing. 🚀
+<a href="https://www.linkedin.com/in/aneeza-mustafa-a062872ba/"><img src="https://img.shields.io/badge/LinkedIn-Aneeza%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
+
+<a href="mailto:aneezamustafa18@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aneeza"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:06B6D4&height=100&section=footer" width="100%" alt="Blue footer"/>
+
+**Keep Building. Keep Learning. Keep Growing.** 🚀
+
+</div>
