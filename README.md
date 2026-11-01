@@ -1,111 +1,185 @@
 
-<!-- ANIMATED HEADER -->
+<!-- ================= HERO SECTION ================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101B3D,50:075985,100:06B6D4&height=200&section=header&text=ANEEZA%20MUSTAFA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Web&descAlignY=60&descSize=17&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Building+Beautiful+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+Dart;Turning+Ideas+Into+Real+Projects+%E2%9C%A8" alt="Typing SVG"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F25,45:102C59,100:087EAA&height=240&section=header&text=ANEEZA%20MUSTAFA&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FLUTTER%20DEVELOPER%20%20%7C%20%20DIGITAL%20CREATOR&descSize=15&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
-<a href="https://github.com/AneezaMustafa18">
-<img src="https://komarev.com/ghpvc/?username=AneezaMustafa18&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38D9F5&center=true&vCenter=true&width=650&lines=Building+Mobile+Experiences.;Turning+Ideas+Into+Applications.;Flutter+%7C+Dart+%7C+Firebase;Always+Learning.+Always+Building." />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/aneeza-mustafa-a062872ba/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AneezaMustafa18">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 👩🏻‍💻 About Me
-
-Hey there! I'm **Aneeza Mustafa**, a Flutter Developer passionate about creating useful, beautiful and user-friendly applications.
-
-🎓 BS Information Technology — Virtual University of Pakistan
-
-- 📱 Building cross-platform apps with Flutter & Dart.
-- 🔥 Working with Firebase Authentication and Cloud Firestore.
-- 🔌 Integrating REST APIs into applications.
-- 🧩 Exploring scalable architecture and state management.
-- ☁️ Working with Cloudinary for media management.
-- 🌐 Exploring Flutter Web and web development.
-- 🐍 Currently learning Python.
-- 💼 Open to Flutter Developer opportunities and collaborations.
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark" />
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=AneezaMustafa18&style=flat-square&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
-**Also working with:** Provider · GetX · REST APIs · Cloud Firestore · Cloudinary · Clean Architecture · MVC
+<!-- ================= INTRODUCTION ================= -->
+
+## 01 / THE DEVELOPER
+
+Hi, I'm **Aneeza Mustafa**.
+
+A Flutter Developer passionate about building mobile and web applications that solve real problems and deliver meaningful user experiences.
+
+I'm currently pursuing my BS in Information Technology at Virtual University of Pakistan.
+
+```dart
+class AneezaMustafa {
+  final String role = "Flutter Developer";
+  final String education = "BS Information Technology";
+
+  final List<String> expertise = [
+    "Flutter & Dart",
+    "Firebase",
+    "REST API Integration",
+    "State Management",
+    "Application Architecture",
+    "Flutter Web"
+  ];
+
+  final String mindset = "Learn. Build. Improve. Repeat.";
+}
+```
+
+- Building cross-platform applications with Flutter.
+- Working with Firebase Authentication and Cloud Firestore.
+- Integrating REST APIs and third-party services.
+- Exploring Clean Architecture and scalable application design.
+- Currently learning Python.
+- Open to professional opportunities and collaborations.
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= TECH STACK ================= -->
+
+## 02 / TECHNOLOGY STACK
 
 <div align="center">
 
-### 🏋️ FitTrack — Fitness Tracking App
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,bootstrap,php,mysql,git,github,vscode,androidstudio,postman&theme=dark" />
 
-A fitness application built to help users monitor their daily activities, workouts and wellness progress.
+</div>
 
-**Flutter · Dart · Firebase · Firestore**
+### Development Expertise
 
----
-
-### 🍔 FoodBank — Food Ordering Application
-
-A food ordering experience with customer and admin applications, order management, deals, favourites and multilingual support.
-
-**Flutter · Dart · Firebase · GetX**
-
----
-
-### 📢 PasteIt — Billboard Booking Platform
-
-A billboard booking platform connecting customers and providers, with authentication, billboard listings and booking management.
-
-**Flutter · Firebase · Cloudinary**
+| Area | Technologies |
+|---|---|
+| Mobile | Flutter, Dart |
+| Backend | Firebase |
+| Database | Cloud Firestore, MySQL |
+| API | REST API Integration |
+| State Management | Provider, GetX |
+| Architecture | MVC, Clean Architecture |
+| Media | Cloudinary |
+| Web | HTML, CSS, Bootstrap, PHP |
+| Tools | Git, GitHub, Postman, Android Studio |
 
 ---
 
-### 🎮 Rock Paper Scissors — Interactive Web Game
+<!-- ================= PROJECT SHOWCASE ================= -->
 
-An interactive Flutter Web game featuring character selection, CPU gameplay, score tracking and sound effects.
+## 03 / SELECTED PROJECTS
 
-**Flutter · Dart · Flutter Web**
+*Ideas transformed into working applications.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01. FitTrack</h3>
+
+**Fitness Tracking Application**
+
+A fitness application designed to monitor daily activities and wellness progress.
+
+- Activity and workout tracking
+- Calories, steps and distance
+- Meal and hydration tracking
+- Progress history and graphs
+- Firebase authentication
+
+`FLUTTER` `DART` `FIREBASE`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. FoodBank</h3>
+
+**Food Ordering Ecosystem**
+
+Customer application and separate mobile admin experience.
+
+- Food categories and deals
+- Order placement and tracking
+- Admin management
+- Favourites
+- English and Arabic support
+- Light and dark themes
+
+`FLUTTER` `FIREBASE` `GETX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. PasteIt</h3>
+
+**Billboard Booking Platform**
+
+A platform connecting customers with billboard providers.
+
+- Customer and provider authentication
+- Billboard listings
+- Booking management
+- Firestore integration
+- Cloudinary media management
+
+`FLUTTER` `FIREBASE` `CLOUDINARY`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Rock Paper Scissors</h3>
+
+**Interactive Flutter Web Game**
+
+A browser-based game with an interactive experience.
+
+- Character selection
+- CPU opponent
+- Score tracking
+- Sound effects
+- Win animations
+
+`FLUTTER WEB` `DART`
+
+<br/>
 
 <a href="https://rock-paper-scissors-rust-seven.vercel.app/">
-<img src="https://img.shields.io/badge/PLAY%20GAME-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLAY_LIVE-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 04 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -115,38 +189,44 @@ An interactive Flutter Web game featuring character selection, CPU gameplay, sco
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AneezaMustafa18&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=AneezaMustafa18&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Growing
+<!-- ================= CURRENT JOURNEY ================= -->
+
+## 05 / CURRENTLY EXPLORING
 
 - Advanced Flutter Development
-- Better application architecture
-- API integration and backend concepts
-- Python fundamentals
-- Building more real-world projects
+- Better Application Architecture
+- API Integration
+- Python Fundamentals
+- Building real-world applications
 
 ---
 
-## 🤝 Let's Connect
+<!-- ================= CONNECT ================= -->
+
+## 06 / LET'S CONNECT
 
 <div align="center">
 
+**Have an idea, opportunity or interesting project? Let's connect.**
+
 <a href="https://github.com/AneezaMustafa18">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aneeza-mustafa-a062872ba/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br/><br/>
 
-**"Dream it. Build it. Make it happen."** ✨
+### BUILD WITH PURPOSE. CREATE WITH PASSION.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:101B3D&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAA,50:102C59,100:080F25&height=130&section=footer"/>
 
 </div>
