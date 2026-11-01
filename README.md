@@ -3,17 +3,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F25,45:102C59,100:087EAA&height=240&section=header&text=ANEEZA%20MUSTAFA&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FLUTTER%20DEVELOPER%20%20%7C%20%20DIGITAL%20CREATOR&descSize=15&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080F25,45:102C59,100:087EAA&height=240&section=header&text=ANEEZA%20MUSTAFA&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=FLUTTER%20DEVELOPER%20%7C%20WEB%20DEVELOPER&descSize=17&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38D9F5&center=true&vCenter=true&width=650&lines=Building+Mobile+Experiences.;Turning+Ideas+Into+Applications.;Flutter+%7C+Dart+%7C+Firebase;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38D9F5&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+App+Developer;Flutter+Web+Developer;Building+Real-World+Applications;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aneeza-mustafa-a062872ba/">
 <img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/AneezaMustafa18">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -24,27 +25,28 @@
 
 </div>
 
-<!-- ================= INTRODUCTION ================= -->
+---
 
-## 01 / THE DEVELOPER
+<!-- ================= ABOUT ME ================= -->
 
-Hi, I'm **Aneeza Mustafa**.
+## 01 / ABOUT ME
 
-A Flutter Developer passionate about building mobile and web applications that solve real problems and deliver meaningful user experiences.
+Hi, I'm **Aneeza Mustafa** — a Flutter Developer and Web Developer passionate about building practical applications and meaningful digital experiences.
 
-I'm currently pursuing my BS in Information Technology at Virtual University of Pakistan.
+🎓 BS Information Technology Student at Virtual University of Pakistan.
 
 ```dart
 class AneezaMustafa {
-  final String role = "Flutter Developer";
+  final String primaryRole = "Flutter Developer";
+  final String secondaryRole = "Web Developer";
   final String education = "BS Information Technology";
 
-  final List<String> expertise = [
+  final List<String> skills = [
     "Flutter & Dart",
     "Firebase",
     "REST API Integration",
-    "State Management",
-    "Application Architecture",
+    "Provider & GetX",
+    "Clean Architecture",
     "Flutter Web"
   ];
 
@@ -52,12 +54,14 @@ class AneezaMustafa {
 }
 ```
 
-- Building cross-platform applications with Flutter.
-- Working with Firebase Authentication and Cloud Firestore.
-- Integrating REST APIs and third-party services.
-- Exploring Clean Architecture and scalable application design.
-- Currently learning Python.
-- Open to professional opportunities and collaborations.
+- 📱 Developing cross-platform applications using Flutter & Dart.
+- 🔥 Working with Firebase Authentication and Cloud Firestore.
+- 🔌 Integrating REST APIs and third-party services.
+- 🧩 Building applications with Provider, GetX and structured architecture.
+- ☁️ Using Cloudinary for media management.
+- 🌐 Exploring Flutter Web and web development.
+- 🐍 Currently learning Python.
+- 💼 Open to Flutter Developer opportunities and collaborations.
 
 ---
 
@@ -67,7 +71,21 @@ class AneezaMustafa {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,bootstrap,php,mysql,git,github,vscode,androidstudio,postman&theme=dark" />
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark"/>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php&theme=dark"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark"/>
 
 </div>
 
@@ -75,66 +93,68 @@ class AneezaMustafa {
 
 | Area | Technologies |
 |---|---|
-| Mobile | Flutter, Dart |
-| Backend | Firebase |
+| Mobile Development | Flutter, Dart |
+| Backend Services | Firebase |
 | Database | Cloud Firestore, MySQL |
-| API | REST API Integration |
+| API Integration | REST APIs |
 | State Management | Provider, GetX |
 | Architecture | MVC, Clean Architecture |
-| Media | Cloudinary |
-| Web | HTML, CSS, Bootstrap, PHP |
+| Media Management | Cloudinary |
+| Web Development | HTML, CSS, Bootstrap, PHP |
 | Tools | Git, GitHub, Postman, Android Studio |
 
 ---
 
 <!-- ================= PROJECT SHOWCASE ================= -->
 
-## 03 / SELECTED PROJECTS
+## 03 / FEATURED PROJECTS
 
-*Ideas transformed into working applications.*
+*Turning ideas into functional applications.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01. FitTrack</h3>
+<h3>🏋️ FitTrack</h3>
 
 **Fitness Tracking Application**
 
-A fitness application designed to monitor daily activities and wellness progress.
+A fitness application designed to help users monitor daily activities and wellness progress.
 
 - Activity and workout tracking
-- Calories, steps and distance
+- Steps, calories and distance
 - Meal and hydration tracking
 - Progress history and graphs
-- Firebase authentication
+- Firebase Authentication
+- Cloud Firestore integration
 
 `FLUTTER` `DART` `FIREBASE`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02. FoodBank</h3>
+<h3>🍔 FoodBank</h3>
 
 **Food Ordering Ecosystem**
 
-Customer application and separate mobile admin experience.
+A food ordering solution with separate customer and mobile admin experiences.
 
-- Food categories and deals
+- Food browsing and categories
+- Deals and favourites
 - Order placement and tracking
-- Admin management
-- Favourites
+- Admin management panel
 - English and Arabic support
 - Light and dark themes
 
-`FLUTTER` `FIREBASE` `GETX`
+`FLUTTER` `DART` `FIREBASE` `GETX`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. PasteIt</h3>
+<h3>📢 PasteIt</h3>
 
 **Billboard Booking Platform**
 
@@ -151,11 +171,11 @@ A platform connecting customers with billboard providers.
 </td>
 <td width="50%" valign="top">
 
-<h3>04. Rock Paper Scissors</h3>
+<h3>🎮 Rock Paper Scissors</h3>
 
 **Interactive Flutter Web Game**
 
-A browser-based game with an interactive experience.
+An interactive browser-based game featuring:
 
 - Character selection
 - CPU opponent
@@ -179,7 +199,7 @@ A browser-based game with an interactive experience.
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
-## 04 / GITHUB ACTIVITY
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -195,15 +215,15 @@ A browser-based game with an interactive experience.
 
 ---
 
-<!-- ================= CURRENT JOURNEY ================= -->
+<!-- ================= LEARNING JOURNEY ================= -->
 
 ## 05 / CURRENTLY EXPLORING
 
 - Advanced Flutter Development
-- Better Application Architecture
-- API Integration
+- Scalable Application Architecture
+- REST API Integration
 - Python Fundamentals
-- Building real-world applications
+- Building Real-World Projects
 
 ---
 
@@ -213,7 +233,7 @@ A browser-based game with an interactive experience.
 
 <div align="center">
 
-**Have an idea, opportunity or interesting project? Let's connect.**
+**Interested in collaboration, development opportunities or exchanging ideas? Let's connect!**
 
 <a href="https://github.com/AneezaMustafa18">
 <img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
@@ -225,7 +245,7 @@ A browser-based game with an interactive experience.
 
 <br/><br/>
 
-### BUILD WITH PURPOSE. CREATE WITH PASSION.
+**BUILD WITH PURPOSE. CREATE WITH PASSION.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAA,50:102C59,100:080F25&height=130&section=footer"/>
 
